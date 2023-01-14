@@ -1,0 +1,15 @@
+C:\Users\Dolphin\Desktop\1st\Poker_dice\bin\Debug\net7.0\Poker_dice.exe
+C:\Users\Dolphin\Desktop\1st\Poker_dice\bin\Debug\net7.0\Poker_dice.deps.json
+C:\Users\Dolphin\Desktop\1st\Poker_dice\bin\Debug\net7.0\Poker_dice.runtimeconfig.json
+C:\Users\Dolphin\Desktop\1st\Poker_dice\bin\Debug\net7.0\Poker_dice.dll
+C:\Users\Dolphin\Desktop\1st\Poker_dice\bin\Debug\net7.0\Poker_dice.pdb
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.csproj.AssemblyReference.cache
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.AssemblyInfoInputs.cache
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.AssemblyInfo.cs
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.csproj.CoreCompileInputs.cache
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.dll
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\refint\Poker_dice.dll
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.pdb
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.genruntimeconfig.cache
+C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\ref\Poker_dice.dll
