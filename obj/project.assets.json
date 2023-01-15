@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dolphin\\.nuget\\packages\\": {}
+    "C:\\Users\\Work\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dolphin\\Desktop\\1st\\Poker_dice\\Poker_dice.csproj",
+      "projectUniqueName": "E:\\Soft\\VS Code projects\\dicePoker\\Poker_dice.csproj",
       "projectName": "Poker_dice",
-      "projectPath": "C:\\Users\\Dolphin\\Desktop\\1st\\Poker_dice\\Poker_dice.csproj",
-      "packagesPath": "C:\\Users\\Dolphin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dolphin\\Desktop\\1st\\Poker_dice\\obj\\",
+      "projectPath": "E:\\Soft\\VS Code projects\\dicePoker\\Poker_dice.csproj",
+      "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
+      "outputPath": "E:\\Soft\\VS Code projects\\dicePoker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dolphin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

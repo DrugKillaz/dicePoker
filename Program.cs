@@ -20,7 +20,11 @@ for (int i = 0;i<=5;i++)
     {
         if (arr[i]==arr[j]) 
         {
+            if((arr[i]!=0) && (arr[j]!=0)){
             Shet=Shet+1;
+            arr[i]=0;
+            arr[j]=0;
+            }
             break;
         }
         else

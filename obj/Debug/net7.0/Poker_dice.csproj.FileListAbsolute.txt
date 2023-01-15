@@ -13,3 +13,18 @@ C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\refint\Poker_dice.dll
 C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.pdb
 C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\Poker_dice.genruntimeconfig.cache
 C:\Users\Dolphin\Desktop\1st\Poker_dice\obj\Debug\net7.0\ref\Poker_dice.dll
+E:\Soft\VS Code projects\dicePoker\bin\Debug\net7.0\Poker_dice.exe
+E:\Soft\VS Code projects\dicePoker\bin\Debug\net7.0\Poker_dice.deps.json
+E:\Soft\VS Code projects\dicePoker\bin\Debug\net7.0\Poker_dice.runtimeconfig.json
+E:\Soft\VS Code projects\dicePoker\bin\Debug\net7.0\Poker_dice.dll
+E:\Soft\VS Code projects\dicePoker\bin\Debug\net7.0\Poker_dice.pdb
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.csproj.AssemblyReference.cache
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.AssemblyInfoInputs.cache
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.AssemblyInfo.cs
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.csproj.CoreCompileInputs.cache
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.dll
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\refint\Poker_dice.dll
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.pdb
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\Poker_dice.genruntimeconfig.cache
+E:\Soft\VS Code projects\dicePoker\obj\Debug\net7.0\ref\Poker_dice.dll
